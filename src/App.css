@@ -1,0 +1,55 @@
+.card-title-uname{
+  font-family: "Kanit", sans-serif;
+  font-weight: 800;
+  font-style: normal;
+  color: orangered;
+  font-size: 1.5rem;
+}
+.card-text-home{
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+.t_data{
+  font-family: "Kanit", sans-serif;
+  color: #c5c2c2;
+}
+.t_col{
+  font-size: larger;
+}
+.card-text-home_site{
+  color: blue;
+}
+.card-text-home_mail{
+  color: rgb(15, 147, 15);
+  font-weight: bolder;
+}
+
+.form-label{
+  font-weight: bolder;
+}
+
+.title_name,.form-title,.U_title{
+  font-family: cursive;
+  font-weight: bold;
+}
+.form-title,.U_title{
+  color: orangered;
+}
+.U_title{
+  padding: 10px;
+}
+.t_col{
+  font-family: "Kanit", sans-serif;
+  font-weight: 800;
+  font-style: normal;
+  font-size: x-large;
+  color: green!important;
+}
+.nav_content{
+  font-family: "Acme", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: xx-large !important;
+}
